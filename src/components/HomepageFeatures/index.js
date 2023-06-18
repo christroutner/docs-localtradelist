@@ -8,28 +8,28 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Create your own store with a couple clicks. Let your community know
+        what you have for sale!
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Trade Locally',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Use the map to find individuals and local businesses in your area. Keep
+        your money circulating within the local community.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Disintermediate the State',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Moderation decisions are made by your local community. State goverments
+        have no power to regulate the activity on Local Trade List.
       </>
     ),
   },
