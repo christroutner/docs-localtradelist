@@ -6,6 +6,8 @@ sidebar_position: 2
 
 This page describes how the different pieces of technology fit together to make Local Trade List work. Below is a diagram showing the pieces of software that make Local Trade List function. On the left is the blockchain infrastructure. On the right is the IPFS infrastructure.
 
+At the bottom of this page is a summary of the political ramifications of this technology.
+
 ![Dependency Architecture](architecture01.png)
 
 Here are links to the software in the diagram:
